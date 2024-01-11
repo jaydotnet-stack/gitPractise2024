@@ -1,1 +1,1 @@
-this is the index file for this jay
+this is the index file for jay
